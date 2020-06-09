@@ -13,21 +13,6 @@ for i in range(N):
         money += price
 
 print(money)
-'''n=int(input())
-for i in range(n):
-    shoe = list(map(int,input().split()))
-    print(shoe)
-    Counter(shoe).keys()'''
-    
-'''
-mylist= [1,2,3,4,5,6,6,7,8,8,9,2,2,1,1]
-print(Counter(mylist))
-    '''
-'''    
-n=input().split()
-print(n)
-'''
-
 
 '''
 SAMPLE INPUT
